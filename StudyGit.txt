@@ -2,3 +2,4 @@ I am ready for study GitHub
 1. Add new info
 2. write first line code
 3. new line (write on github)
+c++ code line adding with GitBash
